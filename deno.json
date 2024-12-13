@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "mp3-to-wav": "npm:mp3-to-wav@^0.1.11"
+  }
+}
